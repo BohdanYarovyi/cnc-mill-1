@@ -1,0 +1,1 @@
+{"servers":{"visual-micro":{"type":"stdio","command":"powershell.exe","args":["-NoLogo","-NoProfile","-NonInteractive","-ExecutionPolicy","RemoteSigned","-File","c:\\program files\\microsoft visual studio\\18\\community\\common7\\ide\\extensions\\k4tttiez.2m5\\AiSupport\\visual-micro-mcp.ps1"]}}}
