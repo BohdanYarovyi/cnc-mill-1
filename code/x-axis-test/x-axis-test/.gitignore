@@ -1,0 +1,7 @@
+.vs
+
+zed-compiled
+x64/
+
+*.slnLaunch.user
+*.vcxproj.user
